@@ -20,7 +20,7 @@ You can dive straight into the materials below:
 
 * 📄 **[AI Primer - Business Benefits Briefing Notes](./AI%20Primer%20-%20Business%20Benefits%20Briefing%20Notes.pdf)** Essential notes, summaries, and overviews focusing on the business value and commercial impact of current AI technologies.
 * 📄 **[AI Primer - Getting Started with Large Language Models and AI Agents](./AI%20Primer%20-%20Getting%20Started%20with%20Large%20Language%20Models%20and%20AI%20Agents.pdf)** A foundational guide to understanding and interacting with LLMs and autonomous AI agents.
-* 📄 **[LLM Models for Desktop or Laptop](./LLM%20Models%20for%20Desktop%20or%20Laptop.pdf)** A practical guide focusing on local LLM hosting and models suitable for everyday consumer hardware.
+* 📄 **[AI Primer - LLM Models for Desktop or Laptop](./AI%20Primer%20-%20LLM%20Models%20for%20Desktop%20or%20Laptop.pdf)** A practical guide focusing on local LLM hosting and models suitable for everyday consumer hardware.
 
 ## 🚀 Getting Started
 
